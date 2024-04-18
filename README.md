@@ -1,3 +1,4 @@
 # git_test
 Hello Odin
-hello lokis
+hello lokisasdasd
+.asdasd
